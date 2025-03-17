@@ -118,16 +118,15 @@ html_context = {
     "matrix": "https://matrix.to/#/#charmhub-juju:ubuntu.com",
     # Your documentation GitHub repository URL
     "github_url": "https://github.com/juju/juju",
-    # "top_of_page_buttons": ["view"],
-    "github_user" : "juju",
-    "github_repo" : "juju",
-    "READTHEDOCS" : True,
-    # "page_source_suffix" : "dark",
-    "conf_py_path" : "docs",
     # Docs branch in the repo; used in links for viewing the source files
     "github_version": "main",
     # Docs location in the repo; used in links for viewing the source files
     "github_folder": "/docs/",
+    
+    "github_user" : "juju",
+    "github_repo" : "juju",
+    "READTHEDOCS" : True,
+    "conf_py_path" : "docs",
 }
 
 # Project slug; see https://meta.discourse.org/t/what-is-category-slug/87897
